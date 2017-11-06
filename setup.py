@@ -10,8 +10,6 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-	'beautifulsoup4',
-	'lxml',
 ]
 
 test_requirements = [
